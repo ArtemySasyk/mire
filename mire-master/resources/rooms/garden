@@ -1,0 +1,3 @@
+{:desc "You are standing in a lush garden, surrounded by colorful flowers and tall trees."
+:exits {:north :start :east :greenhouse}
+:items #{:seeds :watering-can}}

@@ -1,0 +1,3 @@
+{:desc "You are in a warm and humid greenhouse filled with rows of plants."
+:exits {:west :garden :north :potting-room}
+:items #{:fertilizer :shovel}}

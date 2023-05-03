@@ -1,0 +1,4 @@
+{:desc "You are in a dark dungeon with damp walls and a single torch on the wall."
+:exits {:north :torture-room :west :start}
+:items #{:key}
+:enemies #{:goblin}}

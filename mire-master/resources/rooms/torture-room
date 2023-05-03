@@ -1,0 +1,3 @@
+{:desc "You have entered a dimly lit room with rusted shackles hanging from the walls."
+:exits {:south :dungeon}
+:items #{:chains :whip :pliers}}

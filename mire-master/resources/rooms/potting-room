@@ -1,0 +1,3 @@
+{:desc "You are in a small room with a potting bench and gardening tools scattered about."
+:exits {:south :greenhouse}
+:items #{:pot :soil :pruner}}
